@@ -12,6 +12,9 @@ from email.mime.text import MIMEText
 
 app = FastAPI()
 
+@app.get("/")
+def read_root():
+    return {"message": "FastAPI server is running!"}
 # Statik fayllar uchun papkalarni yaratish
 os.makedirs("avatars", exist_ok=True)
 os.makedirs("videos", exist_ok=True)
