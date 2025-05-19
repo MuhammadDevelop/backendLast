@@ -38,14 +38,16 @@ APP_PASSWORD = "kxnx qmzg qtbc guhm"
 ADMIN_EMAIL = "muham20021202@gmail.com"
 
 # ---- MODELLAR ----
+
 class Lesson(BaseModel):
     id: int
-    category: str
+    category: Dict[str, str]
     title: Dict[str, str]
     description: Dict[str, str]
     subtitle: Dict[str, str]
     answer: Dict[str, str]
-    video_url: str
+    video_url: Optional[str] = None  # video_url endi majburiy emas
+
 
 class RegisterInput(BaseModel):
     name: str
