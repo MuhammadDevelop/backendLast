@@ -92,7 +92,7 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
-      
+       
     },
     {
         "id": 2,
@@ -121,7 +121,7 @@ lessons = [
             "rus": "Для обогащения документа, добавления картинок, таблиц и других элементов.",
             "eng": "To enrich the document by adding images, tables, and other elements."
         },
- 
+       
     },
     {
         "id": 3,
@@ -179,7 +179,7 @@ lessons = [
             "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
             "eng": "Excel is used to organize, calculate, and analyze data."
         },
-      
+    
     }
 ]
 
@@ -202,7 +202,7 @@ def get_lessons(lang: Optional[str] = Query("uz")):
             description={lang: lesson["description"].get(lang, lesson["description"]["uz"])},
             subtitle={lang: lesson["subtitle"].get(lang, lesson["subtitle"]["uz"])},
             answer={lang: lesson["answer"].get(lang, lesson["answer"]["uz"])},
-            video_url=lesson["video_url"]
+          
         ))
     return result
 
