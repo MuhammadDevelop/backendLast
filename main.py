@@ -76,6 +76,7 @@ lessons = [
             "uz": "Word darslari",
             "rus": "Уроки Word",
             "eng": "Word lessons"
+            
         },
         "title": {
             "uz": "Word kirish",
@@ -97,6 +98,7 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
+            "video_url":"https://backendlast-1.onrender.com/videos/darsWord-1.mp4"
        
     },
     {
@@ -126,7 +128,7 @@ lessons = [
             "rus": "Для обогащения документа, добавления картинок, таблиц и других элементов.",
             "eng": "To enrich the document by adding images, tables, and other elements."
         },
-       
+         "video_url":"https://backendlast-1.onrender.com/videos/darsWord-2.mp4"
     },
     {
         "id": 3,
@@ -155,7 +157,7 @@ lessons = [
             "rus": "В разделе Дизайн настраивается интерфейс, шрифты, кнопки, внешний вид страницы, а в Макете — расположение и размеры",
             "eng": "Design section configures interface, fonts, buttons, page look; Layout section manages positioning and sizing"
         },
-      
+        "video_url":"https://backendlast-1.onrender.com/videos/darsWord-3.mp4"
     },
     {
         "id": 4,
@@ -184,8 +186,96 @@ lessons = [
             "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
             "eng": "Excel is used to organize, calculate, and analyze data."
         },
-    
+      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-4.mp4"
+    },
+     {
+        "id": 5,
+        "category": {
+            "uz": "Excel darslari",
+            "rus": "Уроки Excel",
+            "eng": "Excel lessons"
+        },
+        "title": {
+            "uz": "Excelga kirish",
+            "rus": "Введение в Excel",
+            "eng": "Introduction to Excel"
+        },
+        "description": {
+            "uz": "Excel dasturiga kirish.",
+            "rus": "Введение в программу Excel.",
+            "eng": "Getting started with Excel."
+        },
+        "subtitle": {
+            "uz": "Excel nima uchun kerak?",
+            "rus": "Зачем нужен Excel?",
+            "eng": "Why is Excel needed?"
+        },
+        "answer": {
+            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
+            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
+            "eng": "Excel is used to organize, calculate, and analyze data."
+        },
+      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-5.mp4"
+    },
+     {
+        "id": 4,
+        "category": {
+            "uz": "Excel darslari",
+            "rus": "Уроки Excel",
+            "eng": "Excel lessons"
+        },
+        "title": {
+            "uz": "Excelga kirish",
+            "rus": "Введение в Excel",
+            "eng": "Introduction to Excel"
+        },
+        "description": {
+            "uz": "Excel dasturiga kirish.",
+            "rus": "Введение в программу Excel.",
+            "eng": "Getting started with Excel."
+        },
+        "subtitle": {
+            "uz": "Excel nima uchun kerak?",
+            "rus": "Зачем нужен Excel?",
+            "eng": "Why is Excel needed?"
+        },
+        "answer": {
+            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
+            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
+            "eng": "Excel is used to organize, calculate, and analyze data."
+        },
+      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-6.mp4"
+    },
+     {
+        "id": 4,
+        "category": {
+            "uz": "Excel darslari",
+            "rus": "Уроки Excel",
+            "eng": "Excel lessons"
+        },
+        "title": {
+            "uz": "Excelga kirish",
+            "rus": "Введение в Excel",
+            "eng": "Introduction to Excel"
+        },
+        "description": {
+            "uz": "Excel dasturiga kirish.",
+            "rus": "Введение в программу Excel.",
+            "eng": "Getting started with Excel."
+        },
+        "subtitle": {
+            "uz": "Excel nima uchun kerak?",
+            "rus": "Зачем нужен Excel?",
+            "eng": "Why is Excel needed?"
+        },
+        "answer": {
+            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
+            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
+            "eng": "Excel is used to organize, calculate, and analyze data."
+        },
+      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-7.mp4"
     }
+      
 ]
 
 
