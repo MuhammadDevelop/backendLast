@@ -98,7 +98,7 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
-            "video_url":"https://backendlast-1.onrender.com/lessons/videos/darsWord-1.mp4"
+            "video_url":"https://backendlast-1.onrender.com/videos/darsWord-1.mp4"
        
     },
     {
@@ -249,7 +249,7 @@ lessons = [
             "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
             "eng": "Excel is used to organize, calculate, and analyze data."
         },
-        
+         "video_url":"https://backendlast-1.onrender.com/videos/darsWord-6.mp4"
     },
      {
         "id": 7,
