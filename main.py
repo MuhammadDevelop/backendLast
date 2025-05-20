@@ -103,7 +103,12 @@ lessons = [
     },
     {
         "id": 2,
-        
+         "category": {
+            "uz": "Word darslari",
+            "rus": "Уроки Word",
+            "eng": "Word lessons"
+            
+        },
         "title": {
             "uz": "Fayl va Gavnaya bo'limi bilan ishlash",
             "rus": "Работа с файлами и главной страницей",
@@ -128,7 +133,12 @@ lessons = [
     },
     {
         "id": 3,
-       
+        "category": {
+            "uz": "Word darslari",
+            "rus": "Уроки Word",
+            "eng": "Word lessons"
+            
+        },
         "title": {
             "uz": "Dizayn va Maket bo'limlari",
             "rus": "Разделы Дизайн и Макет",
@@ -153,7 +163,12 @@ lessons = [
     },
     {
         "id": 4,
-     
+      "category": {
+            "uz": "Word darslari",
+            "rus": "Уроки Word",
+            "eng": "Word lessons"
+            
+        },
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -178,7 +193,12 @@ lessons = [
     },
      {
         "id": 5,
-      
+       "category": {
+            "uz": "Word darslari",
+            "rus": "Уроки Word",
+            "eng": "Word lessons"
+            
+        },
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -203,7 +223,12 @@ lessons = [
     },
      {
         "id": 6,
-        
+         "category": {
+            "uz": "Word darslari",
+            "rus": "Уроки Word",
+            "eng": "Word lessons"
+            
+        },
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -228,7 +253,12 @@ lessons = [
     },
      {
         "id": 7,
-      
+       "category": {
+            "uz": "Word darslari",
+            "rus": "Уроки Word",
+            "eng": "Word lessons"
+            
+        },
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
