@@ -98,16 +98,12 @@ lessons = [
             "rus": "Microsoft Word нужен для создания, редактирования и форматирования текста",
             "eng": "Microsoft Word is used to create, edit, and format text"
         },
-            "video_url":"https://backendlast-1.onrender.com/videos/darsWord-1.mp4"
+            "video_url":"https://backendlast-1.onrender.com/lessons/videos/darsWord-1.mp4"
        
     },
     {
         "id": 2,
-        "category": {
-            "uz": "Word darslari",
-            "rus": "Уроки Word",
-            "eng": "Word lessons"
-        },
+        
         "title": {
             "uz": "Vstavka bo'limi bilan tanishish",
             "rus": "Знакомство с разделом Вставка",
@@ -132,11 +128,7 @@ lessons = [
     },
     {
         "id": 3,
-        "category": {
-            "uz": "Word darslari",
-            "rus": "Уроки Word",
-            "eng": "Word lessons"
-        },
+       
         "title": {
             "uz": "Dizayn va Maket bo'limlari",
             "rus": "Разделы Дизайн и Макет",
@@ -161,11 +153,7 @@ lessons = [
     },
     {
         "id": 4,
-        "category": {
-            "uz": "Excel darslari",
-            "rus": "Уроки Excel",
-            "eng": "Excel lessons"
-        },
+     
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -190,11 +178,7 @@ lessons = [
     },
      {
         "id": 5,
-        "category": {
-            "uz": "Excel darslari",
-            "rus": "Уроки Excel",
-            "eng": "Excel lessons"
-        },
+      
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -218,12 +202,8 @@ lessons = [
       "video_url":"https://backendlast-1.onrender.com/videos/darsWord-5.mp4"
     },
      {
-        "id": 4,
-        "category": {
-            "uz": "Excel darslari",
-            "rus": "Уроки Excel",
-            "eng": "Excel lessons"
-        },
+        "id": 6,
+        
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -247,12 +227,8 @@ lessons = [
       "video_url":"https://backendlast-1.onrender.com/videos/darsWord-6.mp4"
     },
      {
-        "id": 4,
-        "category": {
-            "uz": "Excel darslari",
-            "rus": "Уроки Excel",
-            "eng": "Excel lessons"
-        },
+        "id": 7,
+      
         "title": {
             "uz": "Excelga kirish",
             "rus": "Введение в Excel",
@@ -273,7 +249,7 @@ lessons = [
             "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
             "eng": "Excel is used to organize, calculate, and analyze data."
         },
-      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-7.mp4"
+      "video_url":"https://backendlast-1.onrender.com/lessons/videos/darsWord-7.mp4"
     }
       
 ]
