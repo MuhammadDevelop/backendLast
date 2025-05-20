@@ -79,14 +79,14 @@ lessons = [
             
         },
         "title": {
-            "uz": "Word kirish",
-            "rus": "Введение в Word",
-            "eng": "Introduction to Word"
+            "uz": "Word kirish va sozlamalar",
+            "rus": "Введение в Word и настройки",
+            "eng": "Introduction to Word and settings"
         },
         "description": {
-            "uz": "Word dasturiga kirish va Glavnaya bo'limi",
-            "rus": "Введение в программу Word и раздел Главная",
-            "eng": "Introduction to Word and Home section"
+            "uz": "Word dasturiga kirish va  sozlamalar",
+            "rus": "Введение в программу Word и настройки",
+            "eng": "Introduction to Word and settings"
         },
         "subtitle": {
             "uz": "Word Nima uchun kerak?",
@@ -105,9 +105,9 @@ lessons = [
         "id": 2,
         
         "title": {
-            "uz": "Vstavka bo'limi bilan tanishish",
-            "rus": "Знакомство с разделом Вставка",
-            "eng": "Getting to know the Insert section"
+            "uz": "Fayl va Gavnaya bo'limi bilan ishlash",
+            "rus": "Работа с файлами и главной страницей",
+            "eng": "Working with files and the homepage"
         },
         "description": {
             "uz": "Vstavka bo'limi haqida.",
@@ -115,14 +115,14 @@ lessons = [
             "eng": "About the Insert section."
         },
         "subtitle": {
-            "uz": "Vstavka bo'limi bizga nima uchun kerak?",
+            "uz": "Gavnaya bo'limi bizga nima uchun kerak?",
             "rus": "Зачем нам нужен раздел Вставка?",
             "eng": "Why do we need the Insert section?"
         },
         "answer": {
-            "uz": "Hujjatni boyitish, rasm, jadval va boshqa elementlarni qo‘shish uchun kerak.",
-            "rus": "Для обогащения документа, добавления картинок, таблиц и других элементов.",
-            "eng": "To enrich the document by adding images, tables, and other elements."
+            "uz": "Gavnaya bo‘lim — bu har qanday sayt yoki dasturda asosiy sahifa (ya’ni boshlang‘ich joy). Bu bo‘lim foydalanuvchini dastur yoki sayt bilan tanishtiradi.",
+            "rus": "Главный раздел — это главная страница любого сайта или программы (то есть начальная точка). Этот раздел знакомит пользователя с сайтом или программой.",
+            "eng": "The main section is the homepage of any website or application (that is, the starting point). This section introduces the user to the website or application."
         },
          "video_url":"https://backendlast-1.onrender.com/videos/darsWord-2.mp4"
     },
