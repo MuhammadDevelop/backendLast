@@ -11,7 +11,7 @@ import os
 from email.mime.text import MIMEText
 
 app = FastAPI()
-
+app.mount("/videos", StaticFiles(directory="videos"), name="videos")
 @app.get("/")
 def read_root():
     return {"message": "FastAPI server is running!"}
@@ -249,7 +249,7 @@ lessons = [
             "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
             "eng": "Excel is used to organize, calculate, and analyze data."
         },
-      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-6.mp4"
+        
     },
      {
         "id": 7,
@@ -279,7 +279,7 @@ lessons = [
             "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
             "eng": "Excel is used to organize, calculate, and analyze data."
         },
-      "video_url":"https://backendlast-1.onrender.com/lessons/videos/darsWord-7.mp4"
+      "video_url":"https://backendlast-1.onrender.com/videos/darsWord-7.mp4"
     }
       
 ]
