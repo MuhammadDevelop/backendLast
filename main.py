@@ -115,9 +115,9 @@ lessons = [
             "eng": "Working with files and the homepage"
         },
         "description": {
-            "uz": "Vstavka bo'limi haqida.",
-            "rus": "О разделе Вставка.",
-            "eng": "About the Insert section."
+            "uz": "Gavnaya bo'limi haqida.",
+            "rus": "О разделе главной.",
+            "eng": "About the Insert homepage."
         },
         "subtitle": {
             "uz": "Gavnaya bo'limi bizga nima uchun kerak?",
@@ -140,24 +140,24 @@ lessons = [
             
         },
         "title": {
-            "uz": "Dizayn va Maket bo'limlari",
-            "rus": "Разделы Дизайн и Макет",
-            "eng": "Design and Layout sections"
+            "uz": "Vstavka  bo'limini to'liq o'rganish",
+            "rus": "Полное изучение раздела вставки",
+            "eng": "Complete study of the Insert section"
         },
         "description": {
-            "uz": "Dizayn va Maket bo'limlari haqida",
-            "rus": "О разделах Дизайн и Макет",
-            "eng": "About Design and Layout sections"
+            "uz": "Vstavka bo'limi haqida",
+            "rus": "О разделе «Вставка»",
+            "eng": "About the Insert section"
         },
         "subtitle": {
-            "uz": "Dizayn va Maket bo'limida nimalar o'rganamiz?",
-            "rus": "Что мы изучаем в разделах Дизайн и Макет?",
-            "eng": "What do we learn in Design and Layout sections?"
+            "uz": "Vstavka bo'limida nimalar o'rganamiz?",
+            "rus": "Что мы узнаем во вставке?",
+            "eng": "What will we learn in the Insert section??"
         },
         "answer": {
-            "uz": "Dizayn bo‘limida interfeys, shrift, tugmalar, sahifa ko‘rinishi, Maket bo‘limida esa joylashuv va o‘lchamlar sozlanadi",
-            "rus": "В разделе Дизайн настраивается интерфейс, шрифты, кнопки, внешний вид страницы, а в Макете — расположение и размеры",
-            "eng": "Design section configures interface, fonts, buttons, page look; Layout section manages positioning and sizing"
+            "uz": "“Vstavka” bo‘limida hujjatga rasm, jadval, diagramma, shakl, matn qutisi, sahifa raqami, sarlavha, formulalar va havolalar qo‘shishni o‘rganamiz. Bu bo‘lim hujjatni chiroyli va tushunarli qilishga yordam beradi.",
+            "rus": "В разделе «Вставка» мы узнаем, как добавлять в документ изображения, таблицы, диаграммы, фигуры, текстовые поля, номера страниц, заголовки, формулы и ссылки. Этот раздел поможет сделать документ красивым и понятным.",
+            "eng": "In the 'Insert' section, we will learn how to add images, tables, charts, shapes, text boxes, page numbers, headings, formulas, and links to a document. This section will help you make your document beautiful and understandable."
         },
         "video_url":"https://backendlast-1.onrender.com/videos/darsWord-3.mp4"
     },
@@ -170,24 +170,24 @@ lessons = [
             
         },
         "title": {
-            "uz": "Excelga kirish",
-            "rus": "Введение в Excel",
-            "eng": "Introduction to Excel"
+            "uz": "Vstavka bo'limida Tablitsa bilan ishlash",
+            "rus": "Работа с таблицами в разделе «Вставка»",
+            "eng": "Working with Tables in the Insert section"
         },
         "description": {
-            "uz": "Excel dasturiga kirish.",
-            "rus": "Введение в программу Excel.",
-            "eng": "Getting started with Excel."
+            "uz": "Tablitsiyalar bilan to'liq ishlash.",
+            "rus": "Полная работа с вкладками.",
+            "eng": "Full work with tabs."
         },
         "subtitle": {
-            "uz": "Excel nima uchun kerak?",
-            "rus": "Зачем нужен Excel?",
-            "eng": "Why is Excel needed?"
+            "uz": "Bizga Tablitsiyalar nima uchun kerak?",
+            "rus": "Зачем нам нужны Таблиции?",
+            "eng": "Why do we need Tablitions?"
         },
         "answer": {
-            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
-            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
-            "eng": "Excel is used to organize, calculate, and analyze data."
+            "uz": "Tablitsiyalar — matnda so‘zlarni aniq joylashtirish uchun kerak. Ular yordamida matnni chiziqlar bo‘yicha to‘g‘ri tartibda joylashtirish osonlashadi. Masalan, jadval yasashda yoki ro‘yxatlarni tartibga solishda foydali.",
+            "rus": "Табуляция необходима для точного расположения слов в тексте. Они облегчают размещение текста в правильном порядке вдоль строк. Например, это полезно для создания таблиц или организации списков.",
+            "eng": "Tabs are used to precisely position words in text. They make it easier to arrange text in the correct order on lines. For example, they are useful when creating tables or organizing lists."
         },
       "video_url":"https://backendlast-1.onrender.com/videos/darsWord-4.mp4"
     },
@@ -200,24 +200,24 @@ lessons = [
             
         },
         "title": {
-            "uz": "Excelga kirish",
-            "rus": "Введение в Excel",
-            "eng": "Introduction to Excel"
+            "uz": "Dizayn  Maket va Vid bo'limlari",
+            "rus": "Отделы Дизайн, Макет и Вид",
+            "eng": "Design Layout and View Departments"
         },
         "description": {
-            "uz": "Excel dasturiga kirish.",
-            "rus": "Введение в программу Excel.",
-            "eng": "Getting started with Excel."
+            "uz": "Dizayn  Maket va Vid bo'limlari bilan ishlash",
+            "rus": "Работа с разделами Дизайн, Макет и Вид",
+            "eng": "Working with the Design, Layout, and View tabs"
         },
         "subtitle": {
-            "uz": "Excel nima uchun kerak?",
-            "rus": "Зачем нужен Excel?",
-            "eng": "Why is Excel needed?"
+            "uz": "Dizayn  Maket va Vid bo'limlari nima uchun kerak?",
+            "rus": "Зачем нужны разделы Макет Дизайн и Вид?",
+            "eng": "Why are the Design Layout and View sections needed?"
         },
         "answer": {
-            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
-            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
-            "eng": "Excel is used to organize, calculate, and analyze data."
+            "uz": "Dizayn bo‘limi:Hujjatga fon, rang, chegara (border) va mavzu (theme) qo‘shish uchun.,Maket bo‘limi:Sahifa o‘lchami, chekkalar (margin), yo‘nalish (orientation) va ustunlarni sozlash uchun.,Vid (View) bo‘limi:Hujjatni ko‘rish usullarini o‘zgartirish (masalan: bosma ko‘rinish, web ko‘rinish) va panjaralar, liniyalar ko‘rsatish yoki yashirish uchun.",
+            "rus": "Вкладка 'Дизайн' – используется для добавления фона, цвета, рамки и темы в документ,Вкладка 'Разметка страницы' (или 'Макет') – используется для настройки размера страницы, полей, ориентации и колонок,Вкладка 'Вид' – используется для изменения способа отображения документа (например: разметка страницы, веб-документ) и для показа или скрытия сетки и линеек.",
+            "eng": "Design tab: Used to add background, color, borders, and themes to the document,Layout tab: Used to set page size, margins, orientation, and columns,View tab: Used to change how the document is displayed (e.g., Print Layout, Web Layout) and to show or hide gridlines and rulers."
         },
       "video_url":"https://backendlast-1.onrender.com/videos/darsWord-5.mp4"
     },
@@ -230,24 +230,24 @@ lessons = [
             
         },
         "title": {
-            "uz": "Excelga kirish",
-            "rus": "Введение в Excel",
-            "eng": "Introduction to Excel"
+            "uz": "Havolalar bilan ishlash",
+            "rus": "Работа со ссылками",
+            "eng": "Working with links"
         },
         "description": {
-            "uz": "Excel dasturiga kirish.",
-            "rus": "Введение в программу Excel.",
-            "eng": "Getting started with Excel."
+            "uz": "Ichki va Tashqi havolalar",
+            "rus": "Внутренние и внешние ссылки",
+            "eng": "Internal and External Links"
         },
         "subtitle": {
-            "uz": "Excel nima uchun kerak?",
-            "rus": "Зачем нужен Excel?",
-            "eng": "Why is Excel needed?"
+            "uz": "Havolalar Nima uchun kerak?",
+            "rus": "Ссылки Зачем они нужны?",
+            "eng": "Links Why are they needed?"
         },
         "answer": {
-            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
-            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
-            "eng": "Excel is used to organize, calculate, and analyze data."
+            "uz": "Boshqa hujjatlarga, veb-saytlarga yoki hujjat ichidagi joylarga tez va oson o'tishni ta'minlaydi,Matnni interaktiv qiladi,Ma'lumotlarni bog'lash va izlashni osonlashtiradi.",
+            "rus": "Обеспечивает быстрый и лёгкий переход к другим документам, веб-сайтам или местам внутри документа,Делает текст интерактивным,Упрощает связывание и поиск информации.",
+            "eng": "Enables quick and easy navigation to other documents, websites, or places within the document,Makes the text interactive,Simplifies linking and searching for information."
         },
          "video_url":"https://backendlast-1.onrender.com/videos/darsWord-6.mp4"
     },
@@ -260,24 +260,24 @@ lessons = [
             
         },
         "title": {
-            "uz": "Excelga kirish",
-            "rus": "Введение в Excel",
-            "eng": "Introduction to Excel"
+            "uz": "Xavfsizlikka etibor Berish",
+            "rus": "Сосредоточьтесь на безопасности",
+            "eng": "Focus on safety"
         },
         "description": {
-            "uz": "Excel dasturiga kirish.",
-            "rus": "Введение в программу Excel.",
-            "eng": "Getting started with Excel."
+            "uz": "Xavfsizlik.Hujjatlarni tahrirlashdan himoyalash.Saqlanmagan hujjatlarni Tiklash",
+            "rus": "Безопасность. Защитите документы от редактирования. Восстановить несохраненные документы",
+            "eng": "Security. Protect documents from editing. Recover unsaved documents"
         },
         "subtitle": {
-            "uz": "Excel nima uchun kerak?",
-            "rus": "Зачем нужен Excel?",
-            "eng": "Why is Excel needed?"
+            "uz": "Word da Hujjatlarni himoyalash nima uchun kerak?",
+            "rus": "Почему необходимо защищать документы в Word?",
+            "eng": "Why is it necessary to protect documents in Word?"
         },
         "answer": {
-            "uz": "Excel maʼlumotlarni tartiblash, hisoblash va tahlil qilish uchun kerak.",
-            "rus": "Excel нужен для сортировки, вычислений и анализа данных.",
-            "eng": "Excel is used to organize, calculate, and analyze data."
+            "uz": "Hujjatni o‘zgartirishdan yoki o‘chirishdan,Maxfiy yoki muhim ma’lumotlarni himoya qilish va Foydalanuvchilar faqat o‘qish uchun hujjatni ko‘rishlari mumkin bo‘lishi uchun kerak.",
+            "rus": "Защита документа от изменений или удаления, сохранение конфиденциальной или важной информации и предоставление пользователям возможности просматривать документ только в режиме чтения.",
+            "eng": "Protecting the document from changes or deletion, safeguarding confidential or important information, and allowing users to view the document in read-only mode."
         },
       "video_url":"https://backendlast-1.onrender.com/videos/darsWord-7.mp4"
     }
