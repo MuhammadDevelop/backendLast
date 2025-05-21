@@ -280,7 +280,62 @@ lessons = [
             "eng": "Protecting the document from changes or deletion, safeguarding confidential or important information, and allowing users to view the document in read-only mode."
         },
       "video_url":"https://backendlast-1.onrender.com/videos/darsWord-7.mp4"
-    }
+    },
+     {
+        "id": 8,
+       "category": {
+            "uz": "Excal darslari",
+            "rus": "Уроки Excel",
+            "eng": "Excel lessons"
+            
+        },
+       
+        "description": {
+            "uz": "Excal dasturi va interfeysi",
+            "rus": "Программа и интерфейс Excal",
+            "eng": "Excal program and interface"
+        },
+        "subtitle": {
+            "uz": "Excal dasturi nima uchun kerak?",
+            "rus": "Почему необходимо защищать документы в Word?",
+            "eng": "Why is it necessary to protect documents in Word?"
+        },
+        "answer": {
+            "uz": "bu jadval ko‘rinishida ma’lumotlarni kiritish, tartiblash, tahlil qilish va hisob-kitoblar qilish uchun mo‘ljallangan dasturdir.",
+            "rus": "Это программа, предназначенная для ввода, сортировки, анализа данных и выполнения расчетов в табличной форме.",
+            "eng": "It is a program designed for entering, sorting, analyzing data, and performing calculations in a tabular format."
+        },
+      "video_url":"https://backendlast-1.onrender.com/videos/darsExcal-1.mp4"
+    },
+   
+     {
+        "id": 9,
+       "category": {
+            "uz": "Excal darslari",
+            "rus": "Уроки Excel",
+            "eng": "Excel lessons"
+            
+        },
+       
+        "description": {
+            "uz": "Excal dasturida Smart Jadval yaratish",
+            "rus": "Создание умной таблицы в программе Excel",
+            "eng": "Creating a smart table in Excel"
+        },
+        "subtitle": {
+            "uz": "Excal dasturi da Jadvallar bilan qanday ishlaymiz?",
+            "rus": "Как работать с таблицами в Excel?",
+            "eng": "How do we work with tables in Excel?"
+        },
+        "answer": {
+            "uz": "Excel’da jadvallar bilan ishlashda ma’lumotlar kiritiladi, tartiblanadi, filtrlanadi, formulalar yordamida hisob-kitob qilinadi va grafiklar orqali tahlil qilinadi.",
+            "rus": "В Excel при работе с таблицами данные вводятся, сортируются, фильтруются, производятся вычисления с помощью формул и анализируются с помощью диаграмм.",
+            "eng": "In Excel, when working with tables, data is entered, sorted, filtered, calculated using formulas, and analyzed using charts."
+        },
+      "video_url":"https://backendlast-1.onrender.com/videos/darsExcal-2.mp4"
+    },
+    
+    
       
 ]
 
