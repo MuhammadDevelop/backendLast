@@ -303,7 +303,7 @@ def get_lessons(lang: Optional[str] = Query("uz")):
             description={lang: lesson["description"].get(lang, lesson["description"]["uz"])},
             subtitle={lang: lesson["subtitle"].get(lang, lesson["subtitle"]["uz"])},
             answer={lang: lesson["answer"].get(lang, lesson["answer"]["uz"])},
-          
+           video_url=lesson.get("video_url")
         ))
     return result
 
